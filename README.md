@@ -2,7 +2,8 @@
 For keeping useful information for development.
 
 
-
+### Svelte
+- [Svelte Design Pattern for Components](https://render.com/blog/svelte-design-patterns)
 
 ### Rails
 - [Rails Guides](http://guides.rubyonrails.org/)
