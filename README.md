@@ -18,3 +18,4 @@ For keeping useful information for development.
 ### RUST
 - [For Web Development](https://www.arewewebyet.org/)
 - [Inferno](https://www.infernojs.org/docs/guides/installation)
+- [Are We We Byte](https://www.arewewebyet.org/)
