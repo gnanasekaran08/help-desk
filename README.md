@@ -6,6 +6,7 @@ For keeping useful information for development.
 - [Svelte Design Pattern for Components](https://render.com/blog/svelte-design-patterns)
 
 ### Rails
+- [For Beginners](https://human-se.github.io/)
 - [Rails Guides](http://guides.rubyonrails.org/)
 - [Awesome Rails](https://github.com/gramantin/awesome-rails)
 - YT [SupeRails]: https://www.youtube.com/c/SupeRails/videos
