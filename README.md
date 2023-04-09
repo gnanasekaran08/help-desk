@@ -10,6 +10,7 @@ For keeping useful information for development.
 - [Rails Guides](http://guides.rubyonrails.org/)
 - [Awesome Rails](https://github.com/gramantin/awesome-rails)
 - YT [SupeRails]: https://www.youtube.com/c/SupeRails/videos
+- [building-to-do-list-using-hotwire-and-stimulus](https://www.akshaykhot.com/building-to-do-list-using-hotwire-and-stimulus/)
 
 
 ### General
