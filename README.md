@@ -13,6 +13,7 @@ For keeping useful information for development.
 - [building-to-do-list-using-hotwire-and-stimulus](https://www.akshaykhot.com/building-to-do-list-using-hotwire-and-stimulus/)
 - [is-ruby-too-slow-for-web-scale](https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html)
 - [scaling-ruby-apps-to-1000-rpm](https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html)
+- [large-exports-and-slow-reports-with-activejob](https://boringrails.com/articles/large-exports-and-slow-reports-with-activejob/)
 
 ### General
 - [How to learn](https://www.lesswrong.com/posts/BzxbZqWoP9DRrznFi/learning-how-to-learn-and-20-studies)
