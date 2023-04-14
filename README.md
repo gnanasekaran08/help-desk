@@ -14,6 +14,7 @@ For keeping useful information for development.
 - [is-ruby-too-slow-for-web-scale](https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html)
 - [scaling-ruby-apps-to-1000-rpm](https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html)
 - [large-exports-and-slow-reports-with-activejob](https://boringrails.com/articles/large-exports-and-slow-reports-with-activejob/)
+- [https://medium.com/paris-rb/deploying-your-rails-postgresql-app-on-microsoft-azure-180f8a9fab47](https://medium.com/paris-rb/deploying-your-rails-postgresql-app-on-microsoft-azure-180f8a9fab47)
 
 ### General
 - [How to learn](https://www.lesswrong.com/posts/BzxbZqWoP9DRrznFi/learning-how-to-learn-and-20-studies)
