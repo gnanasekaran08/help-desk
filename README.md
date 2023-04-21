@@ -19,8 +19,11 @@ For keeping useful information for development.
 ### General
 - [How to learn](https://www.lesswrong.com/posts/BzxbZqWoP9DRrznFi/learning-how-to-learn-and-20-studies)
 
-
 ### RUST
 - [For Web Development](https://www.arewewebyet.org/)
 - [Inferno](https://www.infernojs.org/docs/guides/installation)
 - [Are We We Byte](https://www.arewewebyet.org/)
+
+
+### Javascript 
+- [Javascript Coroutines](https://x.st/javascript-coroutines/)
