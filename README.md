@@ -27,3 +27,6 @@ For keeping useful information for development.
 
 ### Javascript 
 - [Javascript Coroutines](https://x.st/javascript-coroutines/)
+
+### CSS
+- [spinning-diagrams-with-css](https://x.st/spinning-diagrams-with-css/)
