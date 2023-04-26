@@ -30,3 +30,7 @@ For keeping useful information for development.
 
 ### CSS
 - [spinning-diagrams-with-css](https://x.st/spinning-diagrams-with-css/)
+
+
+### Laravel
+- [Fortifying Laravel App](https://medium.com/@yaghi.moh/fortifying-your-laravel-application-best-practices-for-securing-your-web-application-b6d4242d0bb8)
