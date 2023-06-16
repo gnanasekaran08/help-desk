@@ -34,6 +34,7 @@ For keeping useful information for development.
 
 ### Laravel
 - [Fortifying Laravel App](https://medium.com/@yaghi.moh/fortifying-your-laravel-application-best-practices-for-securing-your-web-application-b6d4242d0bb8)
+- [10-tips-for-using-laravel-api-resources](https://uselaradoc.com/articles/10-tips-for-using-laravel-api-resources)
 
 ### Go
 - [Job Queue Golang](https://mrkaran.dev/posts/job-queue-golang/)
