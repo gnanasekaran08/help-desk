@@ -42,3 +42,10 @@ For keeping useful information for development.
 ### Extras
  - [Ringtone](https://www.youtube.com/watch?v=0Wgg5-7k-lQ_
  - [https://www.youtube.com/shorts/W62nitcxinI](https://www.youtube.com/shorts/W62nitcxinI)
+
+
+### Floor.js
+- https://nrel.github.io/floorspace.js/docs/#getting-started
+- https://developers.archilogic.com/space-api/v2/examples.html#demo-with-code-2
+- https://codesandbox.io/s/fpe-hello-world-xz127
+
